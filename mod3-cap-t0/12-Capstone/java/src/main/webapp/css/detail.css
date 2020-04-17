@@ -1,0 +1,114 @@
+@charset "ISO-8859-1";
+
+body {
+	padding-left: 15px;
+}
+
+.parkdetailpic>img {
+	display: block;
+	margin-left: 20px;
+	width: 65%;
+}
+
+h2 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 22 px;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+.centered {
+	text-align: center;
+}
+
+h3 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 16 px;
+	font-weight: bold;
+	padding-left: 20px;
+	color: #0080ff;
+}
+
+.quote {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-align: left;
+	font-family: sans-serif;
+	font-style: italic;
+	font-family: cursive;
+	font-size: 22 px;
+	font-weight: bold;
+	padding-left: 20px;
+	color: #0080ff;
+}
+
+.summaryinfo {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 18 px;
+	font-weight: bold;
+	font-weight: bold;
+	padding-left: 20px;
+	color: #008000;
+}
+
+.parkdesc {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 18 px;
+	font-weight: bold;
+	font-weight: bold;
+	padding-left: 20px;
+	color: #000000;
+}
+
+.line {
+	width: 100%;
+	border-bottom: 2px solid black;
+	position: absolute;
+}
+
+.line2 {
+	width: 100%;
+	border-bottom: 2px solid black;
+	position: absolute;
+	margin-left: 20px;
+}
+
+.column {
+	display: flex;
+}
+
+div#weather1>img {
+	margin-left: 20px;
+	width: 200px;
+	padding-right: 20px;
+}
+
+div#weather2>img {
+	margin-left: 20px;
+	width: 150px;
+	padding-left: 15px;
+	padding-right: 20px;
+	padding-bottom: 40px;
+}
+
+.row {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 14 px;
+	padding-left: 15px;
+	padding-right: 20px;
+}

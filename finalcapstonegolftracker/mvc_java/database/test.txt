@@ -1,0 +1,16 @@
+remove courseid from score field and pull it from teetime instead.
+
+wants to send a link to join a league
+
+weather
+
+flagstar ally
+
+get aws cert
+
+generate tee time every 10 minutes
+don't generate booked ones
+allow you to book a tee time both personal and for a match
+
+spring boot
+angular

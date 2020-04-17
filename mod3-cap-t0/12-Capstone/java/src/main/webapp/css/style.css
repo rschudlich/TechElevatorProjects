@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+div > aside {
+margin-top: 20px;
+margin-bottom:10px;
+text-align: left;
+font-family: sans-serif;
+font-size: 16px;
+padding-left: 10px;
+
+}
+
+h1 {
+margin-top: 20px;
+margin-bottom:10px;
+text-align: left;
+font-family: sans-serif;
+font-size: 24px;
+padding-left: 40px;
+}
+
+.parkpic {
+display: flex;
+object-fit: contain;
+border: 2px solid black;
+width: 495px;
+height: 240px;
+
+margin: 30px -30px -5px 15px;
+padding-bottom: 40px;
+overflow: hidden;
+position: relative;
+
+}
+a > img{
+	position: absolute;
+	bottom: -19px;
+}
+
+.summary {
+margin-top: 20px;
+margin-left: 0px;
+margin-bottom:10px;
+text-align: left;
+font-family: sans-serif;
+font-size: 16px;
+padding-left: 40px;
+
+}
+
+p {
+padding-left:40px;
+
+}

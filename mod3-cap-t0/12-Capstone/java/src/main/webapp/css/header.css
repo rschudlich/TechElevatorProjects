@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+
+
+div > logo {
+
+margin-top: 5px;
+margin-left: 5px;
+width: 400px;
+border-style: solid;
+border-width: 2px;
+}
+
+li a {
+color: black;
+text-decoration: none;
+font-size: 20pt;
+list-style: none;
+font-family: sans-serif;
+font-weight: bold;
+color: #008000;
+padding-left: 25px
+
+}
+
+li {
+display: inline;
+padding-right: 100px;
+}
+ul {
+border-style: solid;
+border-width: 2px;
+padding: 20px;
+
+margin-left:-25px;
+width: 110%;
+
+}
